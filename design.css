@@ -1,0 +1,38 @@
+#info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    color: green;
+    border: solid;
+    border-color: blue;
+    padding: 0.5em;
+}
+
+.right h3 {
+    font-weight: normal;
+    font-style: italic;
+    text-align: right;
+}
+
+#box {
+    display: table;
+    border: 2px solid #aaa;
+    font-size: 100%;
+    padding: 10px;
+    width: auto;
+}
+
+.box_title {
+    font-weight: 700;
+    text-align: center;
+}
+
+#box ul li {
+    list-style: none;
+}
+.image{
+    height: 800px;
+    width: 500px;
+}
